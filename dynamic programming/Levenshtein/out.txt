@@ -1,0 +1,5 @@
+DEBUG: cache = {{e, a}=1, {ple, banana}=6, {le, anana}=5, {ple, a}=3, {le, ana}=3, {e, banana}=6, {e, na}=2, {pple, na}=4, {le, a}=2, {le, banana}=6, {ple, na}=3, {e, anana}=5, {pple, banana}=6, {le, na}=2, {le, nana}=4, {pple, a}=4, {apple, banana}=5, {pple, nana}=4, {e, ana}=3, {e, nana}=4, {ple, nana}=4, {pple, ana}=4, {ple, anana}=5, {ple, ana}=3, {pple, anana}=5}
+distance(apple, banana) = 5
+DEBUG: cache = {{pinapple, apple}=3, {pple, le}=2, {napple, apple}=1, {apple, ple}=2, {inapple, ple}=4, {ple, e}=2, {napple, pple}=2, {napple, e}=5, {apple, pple}=1, {inapple, e}=6, {inapple, apple}=2, {napple, ple}=3, {apple, le}=3, {le, e}=1, {inapple, le}=5, {ple, le}=1, {napple, le}=4, {pple, e}=3, {inapple, pple}=3, {apple, e}=4}
+distance(pinapple, apple) = 3
+Enter two string (space separated): 
